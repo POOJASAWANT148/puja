@@ -1,0 +1,29 @@
+Hackathon GRP NO:7(Product Backlog)
+
+
+USER MODULE:
+1.I as a user should able to Register on hackathon portal,registration is successfull when  authentication process is done .
+
+2.After the registration I as a user should be able to to Login into portal,if I as a user forget the password 
+I should be able to get new password on register email 
+
+3.When I As user successfully get login,the  'Dashboard' sholud be displayed which contains the Report of previous exam if already appeared 
+Or I as user sholud be able to start new exam.
+
+4.I as a user should be able select a specific course and sholud be able to appear for exam in levels format 
+and also after giving the exam I should be able to see my result for the same according to the levels cleared or 
+If I as user failed to do clear I sholud be redirected to Homepage.
+
+5.If I as user clear the specified stages of the exam I can view the Certificate of that exam.
+
+
+ADMIN MODULE:
+1. I as an admin can login on the hackathon portal.
+2.After login I as admin should able to view the dashboard,where I can view Student details. 
+3. I as admin can also be able to Update the Question set for various courses.
+
+
+
+
+
+ 
